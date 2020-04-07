@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20150218</CreaDate><CreaTime>16571500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Conversion Tools.tbx\ASCIIToRaster" Date="20150218" Time="165715">ASCIIToRaster d:/voltooideprojecten/2010/probe_in_fortran_pwn/init/input/glg_cm.txt d:\voltooideprojecten\2010\probe_in_fortran_pwn\init\input\ArcGisMaps\glg INTEGER</Process></lineage></DataProperties></Esri></metadata>
